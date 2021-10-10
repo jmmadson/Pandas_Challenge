@@ -3,11 +3,12 @@
 ## Analysis Overview 
 We were asked by the district chief data scientist to analyze standardized test data and funding for her school district. The goal being to review trends and identify patterns to help drive decisions for the district and individual schools. After our initial analysis, it was brought to our attention that there was some academic dishonesty from one of the schools within the district. To account for that and keep our analysis accurate, we needed to adjust the data provided for the 9th grade at Thomas High School, and rerun our analysis. 
 
-We kept the student count and funding the same for Thomas school district so as to not affect the amount of funding per student and other related data, but we removed all of their testing scores, to eliminate the impact on the average and counts of those tests for the school. The following are the results of our analysis. 
+We kept the student count and funding the same for Thomas High School so as to not affect the amount of funding per student and other related data, but we removed all of their testing scores, to eliminate the impact on the average and counts of those tests for the school. The following are the results of our analysis. 
 
 
 ## Analysis Results
 
+### District Level Impact
 These results represent the district and school data, with the 9th grade reading and math scores removed from the data set. What we discovered from removing those results was: 
 
 
@@ -22,6 +23,7 @@ Revised District Summary
 ![Revised District Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_District_Summary.png)
 
 
+### School Level Impact
 * At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
 
 <br>
@@ -33,6 +35,7 @@ Revised School Summary
 ![Revised School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_THS_School_Summary.png)
 
 
+### School Comparison Impact
 * In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. 
 
 <br>
@@ -54,7 +57,7 @@ Revised Reading Scores By Grade
 Original Scores by Per Capita Spending 
 ![Original Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_PerCapita_Spending.png)
 Revised Scores by Per Capita Spending 
-[Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
+![Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
 
 * Scores by school size - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
 <br>
