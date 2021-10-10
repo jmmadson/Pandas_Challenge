@@ -7,11 +7,9 @@ We kept the student count and funding the same for Thomas High School so as to n
 
 
 ## Analysis Results
+These results represent the district and school data, with the 9th grade reading and math scores for Thomas High School removed from the data set. What we discovered from removing those results was: 
 
 ### District Level Impact
-These results represent the district and school data, with the 9th grade reading and math scores removed from the data set. What we discovered from removing those results was: 
-
-
 * At the District level we saw a slight decrease in the average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
 
 <br>
@@ -24,7 +22,7 @@ Revised District Summary
 
 
 ### School Level Impact
-* At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
+* At the school summary level for Thomas High School - we saw a slight decrease in the same areas as the district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
 
 <br>
 
@@ -36,9 +34,8 @@ Revised School Summary
 
 
 ### School Comparison Impact
-In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. 
+In relation to other schools testing performance, removing the altered scores for Thomas High School had very little affect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected scores by grade, school spending, school size and school type. 
 
-<br>
 
 #### Math and Reading Scores by Grade
 Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
@@ -82,9 +79,9 @@ Revised Scores by School Type
 
 
 ## Analysis Summary 
-After we replaced the math and reading scores for the ninth graders at Thomas High School, we saw very little change in the results of our analysis. The things that changed were that the average reading and math score went down slightly, as did the percentage passing for math, reading and overall for both the school and the school and at the district level. 
+After we replaced the math and reading scores for the ninth graders at Thomas High School, we saw very little change in the results of our analysis. The things that changed were that the average reading and math score went down slightly, as did the percentage passing for math, reading and overall for both the school and the district. 
 
-While there were changes, the results having moved so little by removing the altered scores, means that the school district can continue forward with decisions based on the data provided. Those results showed that 
+While there were changes, the results having moved so little by removing the altered scores, means that the school district can continue forward with decisions based on the data provided. Those results showed the following trends:  
 * Charter schools performed higher in reading, math and overall percentage of passing students than district schools
 * Small and Medium sized schools also performed higher than the larger schools in all areas
 * Spending more per student did not correlate to higher test results. In fact the schools with the smallest per capita spending performed the highest. 
