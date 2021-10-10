@@ -25,6 +25,7 @@ Revised District Summary
 * At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
 
 <br>
+
 Original School Summary
 ![Original School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_THS_School_Summary.png) 
 
