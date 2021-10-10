@@ -25,10 +25,10 @@ Revised District Summary
 * At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
 
 <br>
-**Original School Summary**
+Original School Summary
 ![Original School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_THS_School_Summary.png) 
 
-**Revised School Summary**
+Revised School Summary
 ![Revised School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_THS_School_Summary.png)
 
 
@@ -48,21 +48,27 @@ Revised Reading Scores By Grade
 * **Scores by school spending** - Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
 <br>
 
-Original Scores by Per Capita Spending ![Original Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_PerCapita_Spending.png)
-Revised Scores by Per Capita Spending ![Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
+Original Scores by Per Capita Spending 
+![Original Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_PerCapita_Spending.png)
+Revised Scores by Per Capita Spending 
+[Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
 
-* **Scores by school size** - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
+* Scores by school size - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
 <br>
 
-Original Scores by School Size ![Original Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Size.png)
-Revised Scores by School Size ![Revised Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Size.png)
+Original Scores by School Size 
+![Original Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Size.png)
+Revised Scores by School Size 
+![Revised Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Size.png)
 
-* **Scores by school type**
+* Scores by school type
 Scores by school type also was not affected by the grade removal and re-analysis. 
 
 <br>
-Original Scores by School Type ![Original Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Type.png)
-Revised Scores by School Type ![Revised Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Type.png)
+Original Scores by School Type 
+![Original Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Type.png)
+Revised Scores by School Type 
+![Revised Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Type.png)
 
 
 ## Analysis Summary 
