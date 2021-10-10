@@ -10,7 +10,8 @@ We kept the student count and funding the same for Thomas school district so as 
 
 These results represent the district and school data, with the 9th grade reading and math scores removed from the data set. What we discovered from removing those results was: 
 
-* At the District level - we saw a slight decrease in the average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
+<ol>
+<li>At the District level we saw a slight decrease in the average math score, average percent passing math, average percent passing reading and % overall passing as shown below. </li>
 
 Original District Summary
 ![Original District Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_District_Summary.png) 
@@ -19,33 +20,34 @@ Revised District Summary
 ![Revised District Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_District_Summary.png)
 
 
-* At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. 
+<li>At the school summary level for Thomas High School - we saw a slight decrease in the same areas as thes district saw, lower average math score, average percent passing math, average percent passing reading and % overall passing as shown below. </li>
 
-Original School Summary
+**Original School Summary**
 ![Original School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_THS_School_Summary.png) 
 
-Revised School Summary
+**Revised School Summary**
 ![Revised School Summary](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_THS_School_Summary.png)
 
-In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. 
+
+<li>In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. </li>
 
 
-** Math and reading scores by grade - Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
+* **Math and reading scores by grade** - Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
 
-Revised Math Scores By Grade ![Revised Math Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Math_Scores_Grade.png)
+* **Revised Math Scores By Grade** ![Revised Math Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Math_Scores_Grade.png)
 Revised Reading Scores By Grade ![Revised Reading Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Scores_Reading_Grade.png)
 
-** Scores by school spending - Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
+* **Scores by school spending** - Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
 
 Original Scores by Per Capita Spending ![Original Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_PerCapita_Spending.png)
 Revised Scores by Per Capita Spending ![Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
 
-** Scores by school size - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
+* **Scores by school size** - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
 
 Original Scores by School Size ![Original Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Size.png)
 Revised Scores by School Size ![Revised Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Size.png)
 
-** Scores by school type
+* **Scores by school type**
 Scores by school type also was not affected by the grade removal and re-analysis. 
 
 Original Scores by School Type ![Original Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Type.png)
