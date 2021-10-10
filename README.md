@@ -36,11 +36,12 @@ Revised School Summary
 
 
 ### School Comparison Impact
-* In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. 
+In relation to other schools testing performance, removing the altered scores for Thomas High School had very little effect on the results as far as how they compared to other schools. They remained as the second top performing school based on overall passing score even after removing the ninth grade results. Below I've analyzed specifically how removing the altered grades affected Scores by grade, school spending, school size and school type. 
 
 <br>
 
-* **Math and reading scores by grade** - Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
+#### Math and Reading Scores by Grade
+Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
 
 <br>
 
@@ -50,7 +51,8 @@ Revised Math Scores By Grade
 Revised Reading Scores By Grade 
 ![Revised Reading Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Scores_Reading_Grade.png)
 
-* **Scores by school spending** - Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
+#### Scores by school spending
+Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
 
 <br>
 
@@ -59,7 +61,8 @@ Original Scores by Per Capita Spending
 Revised Scores by Per Capita Spending 
 ![Revised Scores by Spending](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_PerCapita_Spending.png)
 
-* Scores by school size - Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
+#### Scores by school size
+Similar to the scores by school spending, the school size results were not affected by the removal of the reading & math scores for the Thomas High School 9th graders. 
 <br>
 
 Original Scores by School Size 
@@ -67,7 +70,7 @@ Original Scores by School Size
 Revised Scores by School Size 
 ![Revised Scores by School Size](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Scores_Size.png)
 
-* Scores by school type
+#### Scores by School Type
 Scores by school type also was not affected by the grade removal and re-analysis. 
 
 <br>
