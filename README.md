@@ -40,6 +40,7 @@ Revised School Summary
 * **Math and reading scores by grade** - Overall the scores by grade were not affected, with the exception of removing the 9th grade reading and math scores for Thomas High School students as shown below. 
 
 <br>
+
 Revised Math Scores By Grade
 ![Revised Math Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Revised_Math_Scores_Grade.png)
 
@@ -47,6 +48,7 @@ Revised Reading Scores By Grade
 ![Revised Reading Scores](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Scores_Reading_Grade.png)
 
 * **Scores by school spending** - Replacing the scores did not affect the per capita spending per school as evidenced by comparing the original analysis results with the revised analysis results. 
+
 <br>
 
 Original Scores by Per Capita Spending 
@@ -66,6 +68,7 @@ Revised Scores by School Size
 Scores by school type also was not affected by the grade removal and re-analysis. 
 
 <br>
+
 Original Scores by School Type 
 ![Original Scores by School Type](https://github.com/jmmadson/School_District_Analysis/blob/master/Resources/Original_Scores_Type.png)
 Revised Scores by School Type 
